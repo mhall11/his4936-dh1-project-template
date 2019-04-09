@@ -17,7 +17,6 @@ This visualization was created using the code provided by Professor David Thomas
 
 
 ### Maps of the deaths during the 1916 Easter Rising Rebellion
-#### by Stephen DeCasien
 ![Places of deaths](docs/files/map1.png)
 
 *Figure 1: Location of Deaths*
