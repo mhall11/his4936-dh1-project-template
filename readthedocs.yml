@@ -25,6 +25,6 @@ python:
         path: .
         extra_requirements:
             - docs
-      - method: setuptools
-        path: .gitignore
+      - method: pip
+        path: .
    system_packages: true
