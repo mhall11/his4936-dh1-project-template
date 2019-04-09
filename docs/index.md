@@ -2,13 +2,12 @@
 
 ---
 
-![Finean Brotherhood. Sourced from http://irishhistoryreview.com/wp/2017/03/29/america-and-the-easter-rising/](docs\files\easterrisingmarch.jpg)
+![Finean Brotherhood. Sourced from http://irishhistoryreview.com/wp/2017/03/29/america-and-the-easter-rising/](docs/files/easterrisingmarch.jpg)
 
 *Poster for Finean Brotherhood*
 
 1. [Lauren Leigh](laurenleigh@mail.usf.edu)
 2. [Michael Hall](https://github.com/mhall11), [mhall11@mail.usf.edu](mhall11@mail.usf.edu)
-3. [Stephen DeCasien](decasien@mail.usf.edu)
 
 ---
 

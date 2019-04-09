@@ -21,7 +21,6 @@
 Authors:
 + [Lauren Leigh](laurenleigh@mail.usf.edu)
 + [Michael Hall](mhall11@mail.usf.edu) ([Github](https://github.com/mhall11))
-+ [Stephen DeCasien](decasien@mail.usf.edu)
 ---
 
 

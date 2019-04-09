@@ -1,6 +1,6 @@
 # Workflow
 
-![Workflow Chart of our project](docs\files\project-easter-rising.png)
+![Workflow Chart of our project](docs/files/project-easter-rising.png)
 
 *A condensed workflow for the project*
 

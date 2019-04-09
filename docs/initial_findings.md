@@ -18,14 +18,14 @@ This visualization was created using the code provided by Professor David Thomas
 
 ### Maps of the deaths during the 1916 Easter Rising Rebellion
 #### by Stephen DeCasien
-![Places of deaths](docs\files\map1.png)
+![Places of deaths](docs/files/map1.png)
 
 *Figure 1: Location of Deaths*
 
-![Locations of deaths in Dublin](docs\files\map2.png)
+![Locations of deaths in Dublin](docs/files/map2.png)
 
 *Figure 2: Location of Death Only in Dublin*
 
-![Heat map of deaths](docs\files\map3.png)
+![Heat map of deaths](docs/files/map3.png)
 
 *Figure 3: Heat Map of Deaths in Dublin*
