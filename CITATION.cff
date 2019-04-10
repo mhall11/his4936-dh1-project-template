@@ -26,7 +26,7 @@ keywords:
 
     license: MIT
     cff-version: 1.0.3
-    
+
 authors of the Easter Rising Project:
 
         family-names: Leigh
@@ -46,11 +46,3 @@ authors of the Easter Rising Project:
         email: mhall11@mail.usf.edu
 
         website: http://github.com/mhall11
-
-        family-names: DeCasien
-
-        given-names: Stephen
-
-        affiliation: "University of South Florida, Dept. of History Graduate Student"
-
-        email: decasien@mail.usf.edu
